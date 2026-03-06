@@ -22,7 +22,7 @@
 ## 📊 GitHub Analytics  
 ![Pavithar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavitharM&show_icons=tr_ue&theme=merko)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavitharM&layout=compact&theme=merko)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PavitharM&theme=merko)  
+![GitHub Streak](https://streak-stats.demolab.com?user=PavitharM&theme=merko)
 
 ---
 
